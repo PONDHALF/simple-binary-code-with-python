@@ -37,7 +37,7 @@ for i in range(size):
     # and if index[..] == 1 (condition) 
     if split[i] == 1:
         
-        # hint: this condtion we skip 0 
+        # hint: this condition we skip 0 
         # if split number equls 0, cuz we dont need 0 (binary basic)
 
         # output plus 2^size (if size of data equals 3 => means loop; 2^2 + 2^1 + 2^0)
